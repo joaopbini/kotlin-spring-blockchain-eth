@@ -17,7 +17,6 @@ $ docker exec -it ethereum geth attach ipc:/tmp/geth.ipc
 #### 2. Managing Ethereum node using JavaScript console
 
 After running JavaScript console you can easily display default account (coinbase), the list of all available accounts and their balances. 
-
 Some common commands:
 
 ````
