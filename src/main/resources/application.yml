@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: transactionDTO-service
+server:
+  port: ${PORT:8090}
+web3j:
+  client-address: 0.0.0.0:8545
