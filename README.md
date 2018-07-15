@@ -37,4 +37,4 @@ eth.sendTransaction({from: eth.coinbase, to: eth.accounts[1], value: 1000})
 
 - Run BlockchainApp
 
-- **Access:** http:localhost:8090/swagger-ui.html
+- **Access:** http://localhost:8090/swagger-ui.html
